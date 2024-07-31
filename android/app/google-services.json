@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990759771294",
+    "project_id": "glogin-61023",
+    "storage_bucket": "glogin-61023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990759771294:android:97b28cb5e5340d9d362f8f",
+        "android_client_info": {
+          "package_name": "com.example.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990759771294-i6286daea09udsodvfg4h6rne23ittec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pxreSLk4515K6CCHZrLvTTuPupZ1XEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990759771294-i6286daea09udsodvfg4h6rne23ittec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
